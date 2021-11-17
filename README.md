@@ -1,4 +1,4 @@
-# Project 3 - Subreddit Classification
+# Subreddit Classification
 ### by Steven Tran
 
 | **Notebooks** |
@@ -8,9 +8,29 @@
 |[03_Preprocessing_Modeling_and_Tuning](code/03_Preprocessing_Modeling_and_Tuning.ipynb)|
 |[04_Production_Model_and_Conclusion](code/04_Production_Model_and_Conclusion.ipynb)|
 
+This project was initally one of my assignments while I attended the **General Assembly Data Science Immersive**. The project involves using natural language processing to solve a binary classification problem.
+
+All continued development tasks listed below are revisions I made after submitting the assignment for review.
+
+Please feel free to reach out if you have any questions.
+[mrsteventran@gmail.com](mailto:mrsteventran@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/steven-tran/)
+
+---
+### Continued development tasks
+
+To do:
+* Revise data collection script  
+    * Collect more posts over a more stratified time period
+* Try `CountVectorizer` with additional parameter combinations
+    
+
+Done:
+
+
 ---
 
-# Using Natural Language Processing (NLP) to Discern what **Unpopular Opinions** are Made Of
+## Using Natural Language Processing (NLP) to Discern what **Unpopular Opinions** are Made Of
 
 The digital age has made it relatively easier to voice ideas and reach a large audience. Because of this, it can be sometimes be difficult to distinguish certain forms of expression. Social networks, discussion boards, or any virtual platforms which promote and moderate stratified discussion would benefit from a way to better distinguish between different forms of expression
 
